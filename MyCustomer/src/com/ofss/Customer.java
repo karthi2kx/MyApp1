@@ -10,7 +10,7 @@ public class Customer {
 	
 	public Customer(String customerName, Address address) {
 		super();
-		this.customerName = customerName;
+		this.customerName =  customerName;
 		this.address = address;
 	}
 	
